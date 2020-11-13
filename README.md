@@ -7,7 +7,6 @@ NANOHEDRA IS LICENSED UNDER THE MIT LICENSE (SEE: LICENSE.md)
 NANOHEDRA SETUP  
    
 STEP 1 - COMPILE 'orient_oligomer.f'  
-in the nanohedra directory execute the following commands:  
 cd orient  
 gfortran -o orient_oligomer orient_oligomer.f  
   
